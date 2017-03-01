@@ -1,7 +1,8 @@
 ## Title: Campaign Commands
 ## APIVersion: 100017
 ## Version: 1.0
-## Author: Luke C. Fairchild
+## Author: Luke C. 
+## Description: Adds commands for queueing into each campaign individually. /trueflame /haderus /blackwater /azura
 
 ; https://github.com/lukecfairchild/ESO-CampaignCommands
 
