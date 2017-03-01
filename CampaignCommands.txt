@@ -1,5 +1,8 @@
 ## Title: Campaign Commands
 ## APIVersion: 100017
 ## Version: 1.0
+## Author: Luke C. Fairchild
+
+; https://github.com/lukecfairchild/ESO-CampaignCommands
 
 CampaignCommands.lua
