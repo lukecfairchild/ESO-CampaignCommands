@@ -1,8 +1,8 @@
 ## Title: Campaign Commands
-## APIVersion: 100018
-## Version: 1.0
+## APIVersion: 100019
+## Version: 1.1
 ## Author: Luke C. 
-## Description: Adds commands for queueing into each campaign individually. /trueflame /haderus /blackwater /azura
+## Description: Adds commands for queueing into each campaign individually. /30 /sotha /sothasil /30cp /vivec  /7cp /alma /almalexia /7 /kyne
 
 ; https://github.com/lukecfairchild/ESO-CampaignCommands
 
