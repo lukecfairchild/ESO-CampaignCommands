@@ -1,6 +1,6 @@
 ## Title: Campaign Commands
 ## APIVersion: 100019
-## Version: 1.1
+## Version: 1.2
 ## Author: Luke C. 
 ## Description: Adds commands for queueing into each campaign individually. /30 /sotha /sothasil /30cp /vivec  /7cp /alma /almalexia /7 /kyne
 
