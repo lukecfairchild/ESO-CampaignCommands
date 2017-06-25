@@ -36,7 +36,7 @@ end
 
 
 -- 7 Day
-SLASH_COMMANDS[ "/7cp" ] = function ( extra )
+SLASH_COMMANDS[ "/7" ] = function ( extra )
 
 	d( "Queueing for Almalexia." )
 	QueueForCampaign( 79 )
@@ -53,11 +53,6 @@ SLASH_COMMANDS[ "/almalexia" ] = function ( extra )
 end
 
 -- Below 50
-SLASH_COMMANDS[ "/7" ] = function ( extra )
-
-	d( "Queueing for Kyne." )
-	QueueForCampaign( 82 )
-end
 SLASH_COMMANDS[ "/kyne" ] = function ( extra )
 
 	d( "Queueing for Kyne." )
